@@ -1,0 +1,19 @@
+﻿<Window x:Class="GitProcess.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GitProcess"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu x:Name="menu" IsMainMenu="True" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="517">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Import toolbox" Click="OnToolBoxImport"/>
+            </MenuItem>
+        </Menu>
+        <DataGrid x:Name="Processus" Margin="10,30,10,0" VerticalAlignment="Top" Height="238" AutoGenerateColumns="True">
+            
+        </DataGrid>
+    </Grid>
+</Window>

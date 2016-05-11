@@ -1,0 +1,16 @@
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\bin\Debug\GitProcess.exe.config
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\bin\Debug\GitProcess.exe
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\bin\Debug\GitProcess.pdb
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess.csprojResolveAssemblyReference.cache
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\MainWindow.g.cs
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\App.g.cs
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess_MarkupCompile.cache
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess_MarkupCompile.lref
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\MainWindow.baml
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess.g.resources
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess.Properties.Resources.resources
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess.csproj.GenerateResource.Cache
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess.exe
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\obj\Debug\GitProcess.pdb
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\bin\Debug\Newtonsoft.Json.dll
+c:\users\qchouleur\documents\visual studio 2015\Projects\GitProcess\GitProcess\bin\Debug\Newtonsoft.Json.xml
